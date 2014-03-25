@@ -197,5 +197,3 @@ global proc WRHelpWin()
     showWindow $window;
 
 }
-
-WheelRigger;
